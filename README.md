@@ -2,12 +2,14 @@ _**Sample Superstore Power BI Dashboard**_
 
 This Power BI dashboard provides an in-depth analysis of the Sample Superstore dataset, which contains information about sales, profits, and customers. The dashboard is designed to help stakeholders gain actionable insights into various aspects of the business, including sales performance, product analysis, customer segmentation, and geographical distribution.
 
-**Requirements**
-->**Power BI Desktop:** The dashboard is designed using Power BI Desktop. Users should have Power BI Desktop installed to view and interact with the dashboard.
+**Requirements**:
 
-->**Sample Superstore Dataset:** The dataset contains information about sales, profits, customers, and products. It is used to generate visualizations and insights in the dashboard.
+**Power BI Desktop:** The dashboard is designed using Power BI Desktop. Users should have Power BI Desktop installed to view and interact with the dashboard.
 
-**Usage**
+**Sample Superstore Dataset:** The dataset contains information about sales, profits, customers, and products. It is used to generate visualizations and insights in the dashboard.
+
+**Usage**:
+
 ->Open the Power BI Desktop application.
 
 ->Import the Sample Superstore dataset into Power BI Desktop.
