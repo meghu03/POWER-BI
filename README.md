@@ -4,9 +4,9 @@ This Power BI dashboard provides an in-depth analysis of the Sample Superstore d
 
 **Requirements**
 
-**Power BI Desktop:** The dashboard is designed using Power BI Desktop. Users should have Power BI Desktop installed to view and interact with the dashboard.
+->**Power BI Desktop:** The dashboard is designed using Power BI Desktop. Users should have Power BI Desktop installed to view and interact with the dashboard.
 
-**Sample Superstore Dataset:** The dataset contains information about sales, profits, customers, and products. It is used to generate visualizations and insights in the dashboard.
+->**Sample Superstore Dataset:** The dataset contains information about sales, profits, customers, and products. It is used to generate visualizations and insights in the dashboard.
 
 **Usage**
 
